@@ -8,7 +8,8 @@ This repository was started and README file was created on 08-06-2020.
 2_Lists 
 3_Working with Lists 
 4_If_Statements 
-5_Dictionaries
+5_Dictionaries 
+6_User input & while loops
 
 ### Software Requirements
 Python
