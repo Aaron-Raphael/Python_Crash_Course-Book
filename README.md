@@ -11,7 +11,8 @@ This repository was started and README file was created on 08-06-2020.
 5_Dictionaries 
 6_User input & while loops 
 7_Functions 
-8_Classes
+8_Classes 
+9_Files & Exceptions
 
 ### Software Requirements
 Python
